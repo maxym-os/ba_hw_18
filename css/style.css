@@ -53,6 +53,25 @@ nav a {
     }
 }
 
+#info {
+    padding: 200px 165px;
+}
+
+@media screen and (max-width: 992px) {
+    #info {
+        padding-left: 40px;
+    }
+}
+
+
+#info h1 {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+#info p {
+    font-weight: 300;
+}
 
 
 
